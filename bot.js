@@ -22,7 +22,7 @@ function gotData(err, data, response) {
 
 // FUNCTION TO POST TWEETS
 var tweet = {
-  status: '#codificando campanha por node.js. Tutorials example in repository: https://github.com/ahsouza/botTwitter'
+  status: '#publicando campanha no twitter com node.js. Exemplo em repositório: https://github.com/ahsouza/botTwitter'
 }
 
 T.post('statuses/update', tweet, tweeted);
