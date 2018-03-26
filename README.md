@@ -7,3 +7,4 @@ This article will demonstrate how to create a basic bot for twitter using node.j
 
 ## Clone o repositório 'botTwitter'
     npm i --save
+    npm start
