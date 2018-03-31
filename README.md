@@ -1,10 +1,26 @@
-# botTwitter
+## Prototype botTwitter
 This article will demonstrate how to create a basic bot for twitter using node.js.
+
 
 * Step 1 - Clone the current repository
 * Step 2 - Install the dependencies
 * Step 3 - Build your app on twitter and configure it in your local application
 
-## Clone o repositório 'botTwitter'
+
+### 1_STEP_ Clone o repositório 'botTwitter'
+```
+git clone https://github.com/ahsouza/botTwitter.git
+```
+### 2_STEP_ Configure the bot with your application token and key on twitter
+
+```
+consumer_key:         '',
+consumer_secret:      '',
+access_token:         '',
+access_token_secret:  ''
+```
+
+
+### 3_STEP_ Install the project dependencies and run your server
     npm i --save
     npm start
