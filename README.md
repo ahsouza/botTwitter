@@ -12,6 +12,7 @@ This article will demonstrate how to create a basic bot for twitter using node.j
 git clone https://github.com/ahsouza/botTwitter.git
 ```
 ### 2_STEP_ Configure the bot with your application token and key on twitter
+Ignore the `config.js` file to maintain a privatization.
 
 ```
 consumer_key:         '',
