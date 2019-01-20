@@ -1,6 +1,6 @@
-const express = require('express')
-const app = express()
-const port = proccess.env.PORT || 3000
+const express = require('express'),
+ app = express(),
+ port = proccess.env.PORT || 3000
  
 app.listen(port, () => {
   console.log(`Servidor rodando em http://localhost:${port}`)
