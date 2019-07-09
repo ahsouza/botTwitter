@@ -1,6 +1,7 @@
 ## Prototype botTwitter
 This article will demonstrate how to create a basic bot for twitter using node.js.
 
+![alt text](https://sabe.io/tutorials/creating-twitter-bot-node-js/hero.png)
 
 * Step 1 - Clone the current repository
 * Step 2 - Install the dependencies
