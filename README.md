@@ -1,4 +1,7 @@
 ## Prototype botTwitter
+👾  Simple example of bot for twitter using Node.js. The simple application publishes some campaign on Twitter. 
+
+
 This article will demonstrate how to create a basic bot for twitter using node.js.
 
 ![alt text](https://sabe.io/tutorials/creating-twitter-bot-node-js/hero.png)
